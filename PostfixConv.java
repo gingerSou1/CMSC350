@@ -1,5 +1,5 @@
 /*
- * Name: Corey Glover
+ * Name: gingerSou1
  * Date: May 23, 2023
  * Course: CMSC 350
  * Description: Class that will run the postfix of the code
