@@ -1,5 +1,5 @@
 /*
- * Name: Corey Glover
+ * Name: gingerSou1
  * Date: June 13, 2023
  * Course: CMSC 350
  * Description: Main class that calls the main method. A named lambda expression is defined.
