@@ -1,5 +1,5 @@
 /*
- * Name: Corey Glover
+ * Name: gingerSou1
  * Date: May 23, 2023
  * Course: CMSC 350
  * Description: Class along with Main function that will run the GUI of the project
